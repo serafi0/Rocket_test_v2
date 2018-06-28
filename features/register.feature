@@ -1,3 +1,4 @@
+@watch
 Feature:
     As a human I want to register a new account in rocket chat.
 
