@@ -1,4 +1,4 @@
-
+@watch
 Feature:
   send messages in the general channel..
 
